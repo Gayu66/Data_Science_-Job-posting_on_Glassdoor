@@ -100,11 +100,33 @@ The dataset includes the following key features:
 - Visualization
   Used small amount of data to do basic visualization and represattion of insights.
    
-  ![image](https://github.com/Gayu66/Data_Science_-Job-posting_on_Glassdoor/assets/128694860/ab0760c5-8bab-4c3b-bd9f-097235094d21)
+  ![image](https://github.com/Gayu66/Data_Science_-Job-posting_on_Glassdoor/assets/128694860/7d5de0d4-cb4a-4bc7-8808-deec5941af8d)
 
   ![image](https://github.com/Gayu66/Data_Science_-Job-posting_on_Glassdoor/assets/128694860/00ea6334-d390-491c-bf98-b580020ed954)
   
-  -----------------------------------------------------------------------------------------------------------------------------------------------------
+ -----------------------------------------------------------------------------------------------------------------------------------------------------
+ 
+ - conclusion
+
+In conclusion, the project successfully analyzed Data Science job postings on Glassdoor, providing valuable insights and recommendations for both job 
+seekers and employers. The findings shed light on the current job market trends, skill requirements, and salary ranges, enabling individuals to make informed 
+decisions and organizations to better understand the competitive landscape in the Data Science domain.
+
+It is important to note that this project has certain limitations. The analysis was based on the available data from Glassdoor, and additional data sources
+could provide further insights. Furthermore, the project focused on a specific platform, and the findings may not be representative of the entire job market.
+ 
+ -----------------------------------------------------------------------------------------------------------------------------------------------------
+ 
+ - References
+ 
+   https://www.kaggle.com/
+   
+   https://www.analyticsvidhya.com
+   
+   https://machinelearningmastery.com
+   
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
 
   
 
