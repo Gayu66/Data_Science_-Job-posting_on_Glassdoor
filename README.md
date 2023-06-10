@@ -26,7 +26,7 @@ experience level, salary information, and other relevant factors.
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------
 
-<h3>Problem statement</h3>
+<h2>Problem statement</h2>
 
 The problem lies in the lack of comprehensive and easily accessible information regarding Data Science job postings on Glassdoor. Job seekers often spend 
 significant time and effort manually searching through numerous job listings, making it challenging to identify the most suitable opportunities.
@@ -37,7 +37,7 @@ patterns, and key factors influencing Data Science job postings, including job t
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------
 
-- Data Description
+<h2>Data Description</h2>
 
 The dataset used for the "Data Science Job Posting on Glassdoor" project consists of a comprehensive collection of job postings related to Data Science 
 roles extracted from Glassdoor platform. The data provides insights into the job landscape, requirements, and trends specific to the Data Science field.
@@ -66,7 +66,7 @@ The dataset includes the following key features:
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------
 
-- Project outline
+<h2>Project outline<h2>
 
    - Explore and analyze job titles ,Numbers are removed from company name
    - Analyze job descriptions and required skills  [ python , excel , hadoo, tableau etc.]
@@ -77,7 +77,8 @@ The dataset includes the following key features:
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------
 
-- Methodology  
+<h2>Methodology</h2>  
+  
   Steps and function used for analysis :
   1. Deleted Index
   2. converted salaray column into normal format and removed doller sign [using FIND & REPLACE]
@@ -97,7 +98,7 @@ The dataset includes the following key features:
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------
 
-- Visualization
+<h2>Visualization</h2>
   Used small amount of data to do basic visualization and represattion of insights.
    
   ![image](https://github.com/Gayu66/Data_Science_-Job-posting_on_Glassdoor/assets/128694860/7d5de0d4-cb4a-4bc7-8808-deec5941af8d)
@@ -106,7 +107,7 @@ The dataset includes the following key features:
   
  -----------------------------------------------------------------------------------------------------------------------------------------------------
  
- - conclusion
+<h2>conclusion</h2>
 
 In conclusion, the project successfully analyzed Data Science job postings on Glassdoor, providing valuable insights and recommendations for both job 
 seekers and employers. The findings shed light on the current job market trends, skill requirements, and salary ranges, enabling individuals to make informed 
@@ -117,7 +118,7 @@ could provide further insights. Furthermore, the project focused on a specific p
  
  -----------------------------------------------------------------------------------------------------------------------------------------------------
  
- - References
+<h2>References</h2>
  
    https://www.kaggle.com/
    
