@@ -15,7 +15,7 @@ The Project is about Data cleaning and transformation. It can be done in Microso
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------
 
-- Abstract 
+<h2>Abstract</h2>
 
 The project "Data Science Job Posting on Glassdoor" aims to analyze and provide insights into the landscape of Data Science job opportunities available
 on the Glassdoor platform.
@@ -26,7 +26,7 @@ experience level, salary information, and other relevant factors.
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------
 
-- Problem statement
+<h3>Problem statement</h3>
 
 The problem lies in the lack of comprehensive and easily accessible information regarding Data Science job postings on Glassdoor. Job seekers often spend 
 significant time and effort manually searching through numerous job listings, making it challenging to identify the most suitable opportunities.
