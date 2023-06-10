@@ -1,0 +1,16 @@
+1.Deleted Index
+2.converted salaray column into normal format and removed doller sign [using FIND & REPLACE]
+3.finding minimum salary [ seperated salary range using ""text to column"" and the used min formula]  
+4. finding max salary [ seperated salary range using ""text to column"" and the used maxformula] 
+5.finding avg salary [ seperated salary range using ""text to column"" and the used avg formula]
+6.find job state using location column [ used ""text to column"" and sepearted location and state]
+7.Finding year [ used formula of  =YEAR(TODAY())-A2 ] (A2 is column of company found year)
+8.find  python,excel,hadoop,spark,aws,tableau,big_data used or not
+   used job discription ( formula =IF(ISNUMBER(SEARCH("python",$C2)),1,0) 
+   C2 is column of  job discription
+ 
+9.job_simp it is the -- extracing the name of "" Data Scientist"" from the title of Job 
+  Using formula of [ =IFERROR(MID($A2,FIND("Data Scientist",$A2),LEN("Data Scientist")),"na")  ]
+
+10. Extracing seniority from job title 
+   Formula = [ =SUBSTITUTE(IFERROR(MID($A2,FIND("Sr",$A2),LEN("sr")),"na"),"Sr","senior") ]
