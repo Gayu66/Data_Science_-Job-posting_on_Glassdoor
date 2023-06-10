@@ -8,6 +8,8 @@ __Table Content__
 - Problem statement
 - Data Description 
 - Project outline
+- Methodology  
+- visualization 
 - conclusion 
 - References
 
@@ -66,18 +68,45 @@ The dataset includes the following key features:
 
 - Project outline
 
-   - Explore and analyze job titles
-   - Analyze job descriptions and required skills
+   - Explore and analyze job titles ,Numbers are removed from company name
+   - Analyze job descriptions and required skills  [ python , excel , hadoo, tableau etc.]
    - Investigate experience level requirements
-   - Examine salary information and trends
+   - Examine salary information and trends ,Transformed Salary column into integer one
    - Explore geographical distribution of job postings
    - Analyze company profiles and industry sectors
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------
 
-![image](https://github.com/Gayu66/Data_Science_-Job-posting_on_Glassdoor/assets/128694860/4565af24-3825-46b1-b704-835d87cefadd)
+- Methodology  
+  Steps and function used for analysis :
+  1. Deleted Index
+  2. converted salaray column into normal format and removed doller sign [using FIND & REPLACE]
+  3. finding minimum salary [ seperated salary range using ""text to column"" and the used min formula]  
+  4. finding max salary [ seperated salary range using ""text to column"" and the used maxformula] 
+  5. finding avg salary [ seperated salary range using ""text to column"" and the used avg formula]
+  6. find job state using location column [ used ""text to column"" and sepearted location and state]
+  7. Finding year [ used formula of  =YEAR(TODAY())-A2 ] (A2 is column of company found year)
+  8. find python,excel,hadoop,spark,aws,tableau,big_data used or not used job discription 
+     ( formula =IF(ISNUMBER(SEARCH("python",$C2)),1,0) C2 is column of  job discription
+ 
+  9. job_simp it is the -- extracing the name of "" Data Scientist"" from the title of Job 
+     Using formula of [ =IFERROR(MID($A2,FIND("Data Scientist",$A2),LEN("Data Scientist")),"na")  ]
 
+  10. Extracing seniority from job title 
+      Formula = [ =SUBSTITUTE(IFERROR(MID($A2,FIND("Sr",$A2),LEN("sr")),"na"),"Sr","senior") ]
 
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
+- Visualization
+  Used small amount of data to do basic visualization and represattion of insights.
+   
+  ![image](https://github.com/Gayu66/Data_Science_-Job-posting_on_Glassdoor/assets/128694860/ab0760c5-8bab-4c3b-bd9f-097235094d21)
+
+  ![image](https://github.com/Gayu66/Data_Science_-Job-posting_on_Glassdoor/assets/128694860/00ea6334-d390-491c-bf98-b580020ed954)
+  
+  -----------------------------------------------------------------------------------------------------------------------------------------------------
+
+  
 
 
 
