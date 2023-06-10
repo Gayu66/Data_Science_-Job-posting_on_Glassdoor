@@ -2,7 +2,7 @@
 The Project is about Data cleaning and transformation. It can be done in Microsoft excel and python too. Here used Excel function to clean data
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------
-__Table Content__
+<h1>Table Content</h1>
 
 - Abstract 
 - Problem statement
