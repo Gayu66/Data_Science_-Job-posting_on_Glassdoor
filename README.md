@@ -66,7 +66,7 @@ The dataset includes the following key features:
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------
 
-<h2>Project outline<h2>
+<h2>Project outline</h2>
 
    - Explore and analyze job titles ,Numbers are removed from company name
    - Analyze job descriptions and required skills  [ python , excel , hadoo, tableau etc.]
@@ -103,6 +103,8 @@ The dataset includes the following key features:
    
   ![image](https://github.com/Gayu66/Data_Science_-Job-posting_on_Glassdoor/assets/128694860/7d5de0d4-cb4a-4bc7-8808-deec5941af8d)
 
+  -------------------------------------------------------------------------------------------------------------------------------
+  
   ![image](https://github.com/Gayu66/Data_Science_-Job-posting_on_Glassdoor/assets/128694860/00ea6334-d390-491c-bf98-b580020ed954)
   
  -----------------------------------------------------------------------------------------------------------------------------------------------------
