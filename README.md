@@ -42,24 +42,24 @@ roles extracted from Glassdoor platform. The data provides insights into the job
 
 The dataset includes the following key features:
 
-Job Title: The title or position name of the job posting, representing the specific Data Science role being advertised.
+  - Job Title: The title or position name of the job posting, representing the specific Data Science role being advertised.
 
-Job Description: A detailed description of the job responsibilities, requirements, and expectations for the Data Science position. 
+  - Job Description: A detailed description of the job responsibilities, requirements, and expectations for the Data Science position. 
 
-Required Skills: The specific skills or technologies mentioned as essential for the Data Science role. This feature helps identify the technical 
-proficiencies expected from job applicants.
+  - Required Skills: The specific skills or technologies mentioned as essential for the Data Science role. This feature helps identify the technical 
+    proficiencies expected from job applicants.
 
-Experience Level: The desired level of experience for the Data Science position, which can range from entry-level to senior or managerial roles. 
-This information gives an understanding of the experience requirements and career progression opportunities.
+  - Experience Level: The desired level of experience for the Data Science position, which can range from entry-level to senior or managerial roles. 
+    This information gives an understanding of the experience requirements and career progression opportunities.
 
-Salary Information: Information related to the compensation and benefits associated with the Data Science position, including salary ranges or 
-specific salary figures. This feature provides insights into the salary trends and market competitiveness for Data Science roles.
+  - Salary Information: Information related to the compensation and benefits associated with the Data Science position, including salary ranges or 
+    specific salary figures. This feature provides insights into the salary trends and market competitiveness for Data Science roles.
 
-Location: The geographical location where the job is based. This feature enables the analysis of regional job markets and highlights areas with a 
-higher demand for Data Science professionals.
+  - Location: The geographical location where the job is based. This feature enables the analysis of regional job markets and highlights areas with a 
+    higher demand for Data Science professionals.
 
-Company Information: Details about the hiring companies, including their names, industry sectors, and any additional information available. 
-This information allows for an analysis of job opportunities across different companies and industries.
+  - Company Information: Details about the hiring companies, including their names, industry sectors, and any additional information available. 
+    This information allows for an analysis of job opportunities across different companies and industries.
 
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------
