@@ -75,6 +75,7 @@ The dataset includes the following key features:
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------
 
+![image](https://github.com/Gayu66/Data_Science_-Job-posting_on_Glassdoor/assets/128694860/4565af24-3825-46b1-b704-835d87cefadd)
 
 
 
